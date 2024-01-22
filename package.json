@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "Install serverless dependencies",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "license-checker": "^25.0.1",
+    "serverless-localstack": "~0.4.35"
+  }
+}
